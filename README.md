@@ -16,3 +16,7 @@ Built on top of [http://html5boilerplate.com](http://html5boilerplate.com)
 
 In Progress
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/frozonfreak/infinite-scroller-angularjs/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
